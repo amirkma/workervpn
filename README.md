@@ -6,7 +6,6 @@
 > 
 > **Running VLESS-WS-TLS/TCP inside Cloudflare Edge/Serverless runtime**  
 >  
-> Base on [zizifn] and [harmony]
 >
 > <br/>
 > 
@@ -308,12 +307,7 @@
 
 <hr/><br/> 
 
-## Credits
-Many thanks to [NiREvil] and [zizifn]
 
-
-[zizifn]: https://github.com/zizifn/edgetunnel
-[N-zizifn]: https://github.com/NiREvil/zizifn
 [harmony]: https://github.com/NiREvil/Harmony
 [NiREvil]: https://github.com/NiREvil
 [login]: https://dash.cloudflare.com/login
